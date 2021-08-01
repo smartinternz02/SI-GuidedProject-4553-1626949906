@@ -1,0 +1,1 @@
+[{"id":"28a6ee0d.5b4b02","type":"http request","z":"a44da2a2.33e17","name":"","method":"GET","ret":"obj","paytoqs":"ignore","url":"https://341e9043-5fc4-47e8-8d65-ae1a1c302533-bluemix.cloudant.com/helmet1/_all_docs?include_docs=true&descending=true&limit=1","tls":"","persist":false,"proxy":"","authType":"basic","x":410,"y":320,"wires":[["27be92d5.a1a1ee"]]}]
